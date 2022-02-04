@@ -12,13 +12,13 @@ This is an implementation of our work "Combing Latent Space Models and Graph Neu
 
 ## Examples
 
-### Link prediction
+### Link Prediction
 
 ```
 python train.py --dataset ogbl-citation2 --link_prediction 1
 ```
 
-### Community detection
+### Community Detection
 
 ```
 python train.py --dataset ogbn-arxiv --community_detection 1
