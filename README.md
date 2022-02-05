@@ -15,14 +15,14 @@ This is an implementation of our work "Combing Latent Space Models and Graph Neu
 ### Link Prediction
 
 ```
-python train.py --dataset ogbl-citation2 --model dlsm --link_prediction 1
+python train.py --model dlsm --dataset ogbl-citation2 --link_prediction 1
 ```
 ```
-python train.py --dataset ogbl-citation2 --model dlsm_d --link_prediction 1
+python train.py --model dlsm_d --dataset ogbl-citation2 --link_prediction 1
 ```
 
 ### Community Detection
 
 ```
-python train.py --dataset ogbn-arxiv --model dlsm --community_detection 1
+python train.py --model dlsm --dataset ogbn-arxiv --community_detection 1
 ```
