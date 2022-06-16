@@ -1,6 +1,6 @@
 # DLSM-OGB
 
-This is an implementation of our work "Combing Latent Space Models and Graph Neural Networks for Directed Graph Representation Learning" for OGB datasets.
+This is an implementation of our work "A Deep Latent Space Model for Interpretable Representation Learning on Directed Graphs" for OGB datasets.
 
 ## Requirements
 
